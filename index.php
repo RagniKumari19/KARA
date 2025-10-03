@@ -55,10 +55,10 @@ if (!$profile_user) {
 
 
 <body class="bg-blue-950">
-  <div class="bg-blue-900 flex gap-4 p-18 h-20 justify-between" style="">
-    <!-- Each child div below will be treated as a horizontal box -->
+  <div class="bg-blue-900 flex gap-4 p-18 h-20 justify-between">
+    
 
-    <!-- Sidebar / Menu -->
+ 
     <label>
       <div class=" p-4">
         <input type="checkbox">
